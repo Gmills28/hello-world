@@ -1,2 +1,6 @@
 # hello-world
-Just a repository 
+
+Sup 
+
+I like the moon 
+I like eating cows
